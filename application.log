@@ -1,0 +1,20 @@
+2025-02-10 09:00:12 INFO Service started successfully
+2025-02-10 09:00:18 INFO User login successful
+2025-02-10 09:00:22 WARNING Slow API response
+2025-02-10 09:01:03 ERROR Database timeout
+2025-02-10 09:01:10 INFO Cache refreshed
+2025-02-10 09:01:45 WARNING High memory usage detected
+2025-02-10 09:02:04 ERROR Database timeout
+2025-02-10 09:02:26 INFO Payment request received
+2025-02-10 09:03:11 ERROR Payment service unavailable
+2025-02-10 09:03:45 INFO User logout successful
+2025-02-10 09:04:02 WARNING Slow API response
+2025-02-10 09:04:40 ERROR Database timeout
+2025-02-10 09:05:11 INFO Background task completed
+2025-02-10 09:05:55 ERROR Payment service unavailable
+2025-02-10 09:06:10 INFO User login successful
+2025-02-10 09:06:33 WARNING High memory usage detected
+2025-02-10 09:07:14 ERROR Database timeout
+2025-02-10 09:07:55 ERROR Database timeout
+2025-02-10 09:08:22 INFO Service heartbeat OK
+2025-02-10 09:08:59 WARNING Slow API response
